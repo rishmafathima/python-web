@@ -13,5 +13,3 @@ lxml is a powerful and efficient library for parsing and manipulating XML and HT
 
 >For more information, you can read here in [lxml - XML and HTML with Python](https://lxml.de/)
 
-
-.
